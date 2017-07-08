@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+/*正文版块*/
+.box .wrap{width:960px; margin:0 auto; color:#666;}
+.main{width:700px; float:left; margin-top:40px;}
+.main dl{padding:20px 0; border-bottom:1px solid #a6a6a6; overflow:hidden;}
+.main dt{width:210px; float:left;}
+.main dt img{padding:5px; border:1px solid #e2e2e2; box-shadow:2px 5px 5px #777;}
+.main dd{width:460px; float:left; line-height:1.8em;}
+.main  h3{font-size:16px; color:#333; padding:10px 0;}
+.aside{width:200px; float:right; margin-top:40px;}
+.aside div{margin-bottom:20px;}
+.aside h3{background:#666; color:#fff; height:28px; line-height:28px; padding-left:10px;}
+.aside ul{border-top:4px solid #dfe0e2; border-bottom:4px solid #dbdbdb; background:#fff; padding:10px 0; line-height:2em; overflow:hidden;}
+.aside .list1 li{padding-left:40px;}
+.aside .list2 li{width:80px; float:left; padding-left:20px; background:url(../images/2_07.png) no-repeat 10px center;}
+
+/*详情页*/
+.pos{width:996px; margin:0 auto; padding-top:40px;}
+.detail{border:1px solid #eee;border-top:4px solid #dfe0e2; padding:20px;}
+.detail h3{font-size:20px; font-weight:bold; text-align:center;}
+.detail .author{text-align:center;}
+.detail p{line-height:2em; text-indent:2em;}
+.detail img{width:650px;}
+.relevant{border:1px solid #eee; padding:20px; margin-top:20px; line-height:1.8em;}
+.relevant h4{font-weight:bold; font-size:16px;}
